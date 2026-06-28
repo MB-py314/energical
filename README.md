@@ -27,7 +27,7 @@ Before you start, make sure you have the following installed on your machine:
 
 ## 🚀 Quick Start Setup
 
-1. **Save the Script**: Ensure you have the automation batch script (e.g., `setup-stack.bat`) inside your working folder.
-2. **Run the Script**: Double-click `setup-stack.bat` or run it from your command prompt:
+1. **Save the Script**: Ensure you have the automation batch script (e.g., `init.bat`) inside your working folder.
+2. **Run the Script**: Double-click `init.bat` or run it from your command prompt:
    ```cmd
-   setup-stack.bat
+   init.bat
